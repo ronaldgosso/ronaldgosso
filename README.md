@@ -96,11 +96,11 @@ Cloud Engineer architecting scalable solutions across AWS, Full-Stack, and AI/ML
 
 | Badge | Certification | Issuer | Verify |
 |:---:|---|---|---|
-| [![HubSpot SEO](https://hubspot-credentials-na1.s3.amazonaws.com/prod/badges/user/25c3c550111341e883820d47d03701ce.png)](https://app-eu1.hubspot.com/academy/achievements/cbhm5rx6/en/1/ronald-gosso/seo) | SEO Certification | HubSpot Academy | [Verify ↗](https://app-eu1.hubspot.com/academy/achievements/cbhm5rx6/en/1/ronald-gosso/seo) |
-| [![Cisco JS](https://images.credly.com/size/110x110/images/acfbe000-5c0a-4cfc-9982-f83a72bc0982/image.png)](https://www.credly.com/badges/b9c25a74-a6f4-4858-b5a2-df0c2f86c492/public_url) | JavaScript Essentials 2 | Cisco | [Verify ↗](https://www.credly.com/badges/b9c25a74-a6f4-4858-b5a2-df0c2f86c492/public_url) |
-| [![Cisco Python](https://images.credly.com/size/110x110/images/2d8c4aa3-c2f4-4f46-8fbc-7d85fcf85a3e/image.png)](https://www.credly.com/badges/b31eafca-1783-4c44-ad63-36563349bce0/public_url) | Python Essentials 2 | Cisco | [Verify ↗](https://www.credly.com/badges/b31eafca-1783-4c44-ad63-36563349bce0/public_url) |
-| [![IBM Web Dev](https://images.credly.com/size/110x110/images/8d34d489-84bf-4861-a4a0-9e9d68318c5c/image.png)](https://www.credly.com/badges/6be1cb97-201c-4058-b901-bbac934f9fa0/public_url) | Web Developer | IBM | [Verify ↗](https://www.credly.com/badges/6be1cb97-201c-4058-b901-bbac934f9fa0/public_url) |
-| [![IBM PM](https://images.credly.com/size/110x110/images/2b2e5c59-4c33-431e-a43e-9fd316220be5/image.png)](https://www.credly.com/badges/3c9a21c7-a168-4004-80e4-99d602e1662b/public_url) | Project Management | IBM | [Verify ↗](https://www.credly.com/badges/3c9a21c7-a168-4004-80e4-99d602e1662b/public_url) |
+| ![SEO](https://img.shields.io/badge/HubSpot-SEO_Certified-FF7A59?style=for-the-badge&logo=hubspot&logoColor=white) | SEO Certification | HubSpot Academy | [Verify ↗](https://app-eu1.hubspot.com/academy/achievements/cbhm5rx6/en/1/ronald-gosso/seo) |
+| ![JS](https://img.shields.io/badge/Cisco-JavaScript_Essentials_2-1BA0D7?style=for-the-badge&logo=javascript&logoColor=white) | JavaScript Essentials 2 | Cisco | [Verify ↗](https://www.credly.com/badges/b9c25a74-a6f4-4858-b5a2-df0c2f86c492/public_url) |
+| ![Python](https://img.shields.io/badge/Cisco-Python_Essentials_2-3776AB?style=for-the-badge&logo=python&logoColor=white) | Python Essentials 2 | Cisco | [Verify ↗](https://www.credly.com/badges/b31eafca-1783-4c44-ad63-36563349bce0/public_url) |
+| ![Web Dev](https://img.shields.io/badge/IBM-Web_Developer-054ADA?style=for-the-badge&logo=ibm&logoColor=white) | Web Developer | IBM | [Verify ↗](https://www.credly.com/badges/6be1cb97-201c-4058-b901-bbac934f9fa0/public_url) |
+| ![PM](https://img.shields.io/badge/IBM-Project_Management-054ADA?style=for-the-badge&logo=ibm&logoColor=white) | Project Management | IBM | [Verify ↗](https://www.credly.com/badges/3c9a21c7-a168-4004-80e4-99d602e1662b/public_url) |
 
 ---
 
