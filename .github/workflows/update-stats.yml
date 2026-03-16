@@ -1,0 +1,19 @@
+name: Update Stats
+
+on:
+  schedule:
+    - cron: "0 */6 * * *"
+  workflow_dispatch:
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - name: Generate Stats
+        uses: anuraghazra/github-readme-stats@latest
+        with:
+          USERNAME: ronaldgosso
+          REPO_TOKEN: ${{ secrets.GH_TOKEN }}
+          COUNT_PRIVATE: true
+          INCLUDE_ALL_COMMITS: true
