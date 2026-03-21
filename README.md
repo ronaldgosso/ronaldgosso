@@ -41,16 +41,6 @@ Cloud Engineer architecting scalable solutions across AWS, Full-Stack, and AI/ML
 
 ---
 
-### 🏆 GitHub Achievements
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=ronaldgosso&theme=flat&no-frame=true&no-bg=true&margin-w=8&column=4)](https://github.com/ronaldgosso)
-
-</div>
-
----
-
 ### 🛠 Tech Stack
 
 **Languages**
