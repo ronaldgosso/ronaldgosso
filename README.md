@@ -10,6 +10,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ronald_Gosso-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ronald-isack-gosso)
 [![Email](https://img.shields.io/badge/Email-ronaldgosso@gmail.com-D85A30?style=flat&logo=gmail&logoColor=white)](mailto:ronaldgosso@gmail.com)
+![](https://komarev.com/ghpvc/?username=ronaldgosso&color=green)
 
 </div>
 
