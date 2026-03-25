@@ -33,7 +33,11 @@ Cloud Engineer architecting scalable solutions across AWS, Full-Stack, and AI/ML
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ronaldgosso&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&bg_color=00000000&title_color=1D9E75&icon_color=378ADD&text_color=444441" width="48%" alt="GitHub Stats" />
+
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=ronaldgosso&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&bg_color=00000000&title_color=1D9E75&icon_color=378ADD&text_color=444441" width="48%" alt="GitHub Stats" /> 
+ [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ronaldgosso)](https://github.com/ronaldgosso/github-readme-stats)
+-->
+
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ronaldgosso&layout=compact&hide_border=true&count_private=true&bg_color=00000000&title_color=1D9E75&text_color=444441" width="48%" alt="Top Languages" />
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=ronaldgosso&hide_border=true&background=00000000&ring=1D9E75&fire=378ADD&currStreakLabel=1D9E75&sideLabels=444441&dates=888780" width="98%" alt="GitHub Streak" />
