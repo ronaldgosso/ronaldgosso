@@ -95,7 +95,7 @@ I believe in building things that are:
 ![LangChain](https://img.shields.io/badge/LangChain-121212?style=flat&logo=chainlink&logoColor=white)
 ![Haystack](https://img.shields.io/badge/Haystack-FF6D00?style=flat&logo=elastic&logoColor=white)
 
-**Cloud, Plan & DevOps**&nbsp;
+**Cloud, Plan, Monitoring & DevOps**&nbsp;
 ![AWS](https://img.shields.io/badge/AWS-E1F5EE?style=flat&logo=aws&logoColor=0F6E56)
 ![Docker](https://img.shields.io/badge/Docker-E1F5EE?style=flat&logo=docker&logoColor=0F6E56)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
@@ -103,18 +103,18 @@ I believe in building things that are:
 ![Agile](https://img.shields.io/badge/Agile-6A1B9A?style=flat&logo=scrumalliance&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white)
 
-**Mobile & Databases**&nbsp;
+**Mobile & Storage**&nbsp;
 ![Android](https://img.shields.io/badge/Android-FAECE7?style=flat&logo=android&logoColor=993C1D)
 ![iOS](https://img.shields.io/badge/iOS-FAECE7?style=flat&logo=apple&logoColor=993C1D)
 ![MySQL](https://img.shields.io/badge/MySQL-F1EFE8?style=flat&logo=mysql&logoColor=5F5E5A)
-![NoSQL](https://img.shields.io/badge/NoSQL-F1EFE8?style=flat&logoColor=5F5E5A)
+![NoSQL](https://img.shields.io/badge/NoSQL-F1EFE8?style=flat&logo=mongodb&Color=5F5E5A)
 ![Vector DB](https://img.shields.io/badge/Vector%20DB-8A2BE2?style=flat&logo=databricks&logoColor=white)
 
 **Fields**&nbsp;
-![ML](https://img.shields.io/badge/Machine_Learning-FAEEDA?style=flat&logoColor=854F0B)
+![ML](https://img.shields.io/badge/Machine_Learning-FAEEDA?style=flat&logo=ml&Color=854F0B)
 ![Big Data](https://img.shields.io/badge/Big_Data-FAEEDA?style=flat&logoColor=854F0B)
-![IoT](https://img.shields.io/badge/IoT-FAEEDA?style=flat&logoColor=854F0B)
-![Robotics](https://img.shields.io/badge/Robotics_Automation-FAEEDA?style=flat&logoColor=854F0B)
+![IoT](https://img.shields.io/badge/IoT-FAEEDA?style=flat&logo=arduino&Color=854F0B)
+![Robotics](https://img.shields.io/badge/Robotics_Automation-FAEEDA?style=flat&logo=robot&Color=854F0B)
 
 ---
 
