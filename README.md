@@ -16,8 +16,8 @@
 </div>
 
 ---
-
-### 🔍 Currently digging into
+  
+###  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/26a1/512.gif" alt="⚡" width="20" style="vertical-align: middle;" /> Currently digging into
 ![Big Data](https://img.shields.io/badge/Big_Data-learning-FAEEDA?style=flat&labelColor=EF9F27&color=FAEEDA)
 ![AWS](https://img.shields.io/badge/AWS-learning-FAEEDA?style=flat&logo=amazonaws&labelColor=EF9F27&color=FAEEDA&logoColor=white)
 ![IoT](https://img.shields.io/badge/IoT-learning-FAEEDA?style=flat&labelColor=EF9F27&color=FAEEDA)
@@ -25,29 +25,54 @@
 
 ---
 
-### 💡 About
-Cloud Engineer architecting scalable solutions across AWS, Full-Stack, and AI/ML. My strongest skill is creativity — gathering client requirements and translating them into engaging, effective technology. A people-first engineer who thrives in cross-functional teams.
+<h3>
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1faf0/512.gif" width="20" style="vertical-align: middle;" />
+  About
+</h3>
+Cloud Engineer architecting scalable solutions across AWS, Full-Stack, and AI/ML. My strongest skill is creativity — gathering client requirements and translating them into engaging, effective technology. A people-first engineer who thrives in cross-functional teams. 
+I’m a builder at heart — a cloud engineer who blends **analytical thinking, adaptability, and ownership** with a deep curiosity about how systems (and stories) work.
+
+By day, I focus on designing resilient architectures, optimizing performance, and solving real-world problems with clarity and precision. I value **clear communication, structured problem-solving, and continuous improvement** — because great engineering isn’t just about code, it’s about alignment, impact, and long-term thinking.
+
+By night <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f31b/512.gif" alt="🌛" width="20" style="vertical-align: middle;" />, I’m usually deep into code — refining ideas, experimenting with new architectures, or exploring emerging technologies. I do some of my best thinking when the world is quiet.
+
+---
+<b>Outside the terminal:</b>
+
+- <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f3ac/512.gif" alt="🎬" width="20" style="vertical-align: middle;" /> **Movies** sharpen my storytelling instincts and strategic thinking — great systems, like great films, depend on strong structure.
+- <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f393/512.gif" alt="🎓" width="20" style="vertical-align: middle;" /> **Books** expand my perspective — from technical depth to human insight.
+- <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f6eb/512.gif" alt="🛫" width="20" style="vertical-align: middle;" /> **Traveling** fuels adaptability and cultural awareness — two underrated assets in global tech environments.
+
+I believe in building things that are:
+- **Resilient**
+- **Scalable**
+- **Elegant**
+- **Future-proof**
+
+<div align="start">
+  Always learning. Always improving. Always shipping.
+
+> “Discipline builds skill. Curiosity builds mastery.”
+</div>
 
 ---
 
-### 📊 GitHub Stats
+### <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f947/512.gif" alt="🥇" width="20" style="vertical-align: middle;" /> GitHub Stats
 
 <div align="center">
+  
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=ronaldgosso&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&bg_color=00000000&title_color=1D9E75&icon_color=378ADD&text_color=444441" width="48%" alt="GitHub Stats" />
+<!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ronaldgosso)](https://github.com/ronaldgosso/github-readme-stats)  -->
 
+ <!--<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ronaldgosso&layout=compact&hide_border=true&count_private=true&bg_color=00000000&title_color=1D9E75&text_color=444441" width="48%" alt="Top Languages" />-->
 
-<!-- <img src="https://github-readme-stats.vercel.app/api?username=ronaldgosso&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&bg_color=00000000&title_color=1D9E75&icon_color=378ADD&text_color=444441" width="48%" alt="GitHub Stats" /> 
- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ronaldgosso)](https://github.com/ronaldgosso/github-readme-stats)
--->
-
-<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ronaldgosso&layout=compact&hide_border=true&count_private=true&bg_color=00000000&title_color=1D9E75&text_color=444441" width="48%" alt="Top Languages" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ronaldgosso&hide_border=true&background=00000000&ring=1D9E75&fire=378ADD&currStreakLabel=1D9E75&sideLabels=444441&dates=888780" width="98%" alt="GitHub Streak" /> -->
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ronaldgosso&hide_border=false&background=00000000&ring=1D9E75&fire=378ADD&currStreakLabel=F8DE22&sideLabels=444441&dates=888780" width="98%" alt="GitHub Streak" /> 
 
 </div>
 
 ---
 
-### 🛠 Tech Stack
+### <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/2699_fe0f/512.gif" alt="⚙" width="20" style="vertical-align: middle;" /> Tech Stack
 
 **Languages**
 ![Java](https://img.shields.io/badge/Java-E6F1FB?style=flat&logo=java&logoColor=185FA5)
@@ -86,9 +111,7 @@ Cloud Engineer architecting scalable solutions across AWS, Full-Stack, and AI/ML
 
 ---
 
-### 📜 Certifications
-
-> I update this section regularly as I earn new credentials.
+### <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f386/512.gif" alt="🎆" width="20" style="vertical-align: middle;" /> Certifications
 
 | Badge | Certification | Issuer | Verify |
 |:---:|---|---|---|
@@ -99,8 +122,3 @@ Cloud Engineer architecting scalable solutions across AWS, Full-Stack, and AI/ML
 | ![PM](https://img.shields.io/badge/IBM-Project_Management-054ADA?style=for-the-badge&logo=ibm&logoColor=white) | Project Management | IBM | [Verify ↗](https://www.credly.com/badges/3c9a21c7-a168-4004-80e4-99d602e1662b/public_url) |
 | ![UFL](https://img.shields.io/badge/AI%20In%20Health-0021A5?style=for-the-badge&logo=uni&logoColor=white) | AI in Health Education and Health Promotion | University Of Florida | [Verify ↗](https://www.credly.com/badges/940c23e3-1474-477a-8be6-2a1786399b9a/public_url) |
 
----
-
-<div align="center">
-  <i>"Creativity is my strongest skill."</i>
-</div>
