@@ -127,5 +127,6 @@ I believe in building things that are:
 | ![Python](https://img.shields.io/badge/Cisco-Python-3776AB?style=for-the-badge&logo=python&logoColor=white) | Python | Cisco | [Verify ↗](https://www.credly.com/badges/b31eafca-1783-4c44-ad63-36563349bce0/public_url) |
 | ![Web Dev](https://img.shields.io/badge/IBM-Web_Developer-054ADA?style=for-the-badge&logo=ibm&logoColor=white) | Web Developer | IBM | [Verify ↗](https://www.credly.com/badges/6be1cb97-201c-4058-b901-bbac934f9fa0/public_url) |
 | ![PM](https://img.shields.io/badge/IBM-Project_Management-054ADA?style=for-the-badge&logo=ibm&logoColor=white) | Project Management | IBM | [Verify ↗](https://www.credly.com/badges/3c9a21c7-a168-4004-80e4-99d602e1662b/public_url) |
-| ![UFL](https://img.shields.io/badge/AI%20In%20Health-0021A5?style=for-the-badge&logo=uni&logoColor=white) | AI in Health Education and Health Promotion | University Of Florida | [Verify ↗](https://www.credly.com/badges/940c23e3-1474-477a-8be6-2a1786399b9a/public_url) |
+| ![UFL](https://img.shields.io/badge/AI-In-Health-0021A5?style=for-the-badge&logo=uni&logoColor=white) | AI in Health Education and Health Promotion | University Of Florida | [Verify ↗](https://www.credly.com/badges/940c23e3-1474-477a-8be6-2a1786399b9a/public_url) |
+| ![AI Literacy](https://img.shields.io/badge/AI-Literacy-054ADA?style=for-the-badge&logo=ibm&logoColor=white) | AI Literacy | IBM | [Verify ↗](https://www.credly.com/badges/c510383e-7854-48d6-a7e6-2cecbf01b9ef/public_url) |
 
