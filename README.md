@@ -113,7 +113,7 @@ I believe in building things that are:
 **Fields**&nbsp;
 ![ML](https://img.shields.io/badge/Machine_Learning-FAEEDA?style=flat&logo=ml&Color=854F0B)
 ![Big Data](https://img.shields.io/badge/Big_Data-FAEEDA?style=flat&logoColor=854F0B)
-![IoT](https://img.shields.io/badge/IoT-FAEEDA?style=flat&logo=arduino&Color=854F0B)
+![IoT](https://img.shields.io/badge/IoT-FAEEDA?style=flat&logo=arduino&logoColor=854F0B)
 ![Robotics](https://img.shields.io/badge/Robotics_Automation-FAEEDA?style=flat&logo=robot&Color=854F0B)
 
 ---
