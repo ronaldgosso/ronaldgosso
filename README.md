@@ -66,7 +66,7 @@ I believe in building things that are:
 
  <!--<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ronaldgosso&layout=compact&hide_border=true&count_private=true&bg_color=00000000&title_color=1D9E75&text_color=444441" width="48%" alt="Top Languages" />-->
 
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=ronaldgosso&theme=dark" alt="GitHub Streak" /></a>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=ronaldgosso&theme=dark&starting_year=2022" alt="GitHub Streak" /></a>
 
 </div>
 
