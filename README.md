@@ -1,4 +1,6 @@
-<meta name="google-site-verification" content="OYlEb2OcwvPOP5yz7prV4BNYStN14VCHVN_gAJSbVn8" />
+<head>
+  <meta name="google-site-verification" content="OYlEb2OcwvPOP5yz7prV4BNYStN14VCHVN_gAJSbVn8" />
+</head>
 <div align="center">
 
 <a href="https://github.com/ronaldgosso">
