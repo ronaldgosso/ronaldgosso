@@ -1,6 +1,3 @@
-<head>
-  <meta name="google-site-verification" content="OYlEb2OcwvPOP5yz7prV4BNYStN14VCHVN_gAJSbVn8" />
-</head>
 <div align="center">
 
 <a href="https://github.com/ronaldgosso">
@@ -51,6 +48,20 @@ I believe in building things that are:
 - **Scalable**
 - **Elegant**
 - **Future-proof**
+
+---
+
+### <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f3ac/512.gif" alt="🎬" width="20" style="vertical-align: middle;" /> Movies & Shows
+
+Tracking my watchlist and viewing activity on Trakt.
+
+<div align="center">
+
+[![Trakt Activity](https://trakt.tv/users/hydraLord/widgets/stats)](https://trakt.tv/users/hydraLord)
+
+</div>
+
+---
 
 <div align="start">
   Always learning. Always improving. Always shipping.
