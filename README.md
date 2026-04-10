@@ -57,7 +57,7 @@ Tracking my watchlist and viewing activity on Trakt.
 
 <div align="center">
 
-[![Trakt Activity](https://trakt.tv/users/hydraLord/widgets/stats)](https://trakt.tv/users/hydraLord)
+<img src="https://trakt-widgets.vercel.app/hydraLord/watched/poster?language=en" alt="trakt-widget" height="300"/>
 
 </div>
 
