@@ -49,10 +49,6 @@ I believe in building things that are:
 - **Elegant**
 - **Future-proof**
 
----
-
-### <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f3ac/512.gif" alt="🎬" width="20" style="vertical-align: middle;" /> Movies & Shows
-
 <div align="center">
 
 <img src="https://trakt-widgets.vercel.app/hydraLord/watched/poster?language=en" alt="trakt-widget" height="300"/>
