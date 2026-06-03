@@ -56,8 +56,6 @@ I believe in building things that are:
 
 </div>
 
----
-
 <div align="start">
   Always learning. Always improving. Always shipping.
 
@@ -75,29 +73,6 @@ I believe in building things that are:
 </div>
 
 ---
-
-### <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4ca/512.gif" alt="📊" width="20" style="vertical-align: middle;" /> Programming Language Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ronaldgosso&layout=compact&hide_border=true&count_private=true&bg_color=00000000&title_color=1D9E75&text_color=E8E8E8&langs_count=10" alt="Top Languages" />
-
-</div>
-
-<div align="center">
-
-#### Language Proficiency Overview
-
-| Language | Level | Experience |
-|:---:|:---:|:---:|
-| ![Python](https://img.shields.io/badge/Python-Advanced-3776AB?style=flat&logo=python&logoColor=white) | ⭐⭐⭐⭐⭐ | Full-Stack, ML, Backend |
-| ![JavaScript](https://img.shields.io/badge/JavaScript-Advanced-F7DF1E?style=flat&logo=javascript&logoColor=black) | ⭐⭐⭐⭐⭐ | Frontend, Backend, Full-Stack |
-| ![Java](https://img.shields.io/badge/Java-Advanced-007396?style=flat&logo=java&logoColor=white) | ⭐⭐⭐⭐⭐ | Backend, Microservices |
-| ![Kotlin](https://img.shields.io/badge/Kotlin-Advanced-7F52FF?style=flat&logo=kotlin&logoColor=white) | ⭐⭐⭐⭐ | Android, Backend |
-| ![Swift](https://img.shields.io/badge/Swift-Advanced-FA7343?style=flat&logo=swift&logoColor=white) | ⭐⭐⭐⭐ | iOS Development |
-| ![C++](https://img.shields.io/badge/C++-Intermediate-00599C?style=flat&logo=cplusplus&logoColor=white) | ⭐⭐⭐ | Systems, Algorithms |
-| ![SQL](https://img.shields.io/badge/SQL-Advanced-336791?style=flat&logo=postgresql&logoColor=white) | ⭐⭐⭐⭐⭐ | Database Design, Optimization |
-
 ### <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/2699_fe0f/512.gif" alt="⚙" width="20" style="vertical-align: middle;" /> Tech Stack
 
 **Languages**&nbsp;
