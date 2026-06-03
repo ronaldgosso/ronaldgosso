@@ -98,22 +98,6 @@ I believe in building things that are:
 | ![C++](https://img.shields.io/badge/C++-Intermediate-00599C?style=flat&logo=cplusplus&logoColor=white) | ⭐⭐⭐ | Systems, Algorithms |
 | ![SQL](https://img.shields.io/badge/SQL-Advanced-336791?style=flat&logo=postgresql&logoColor=white) | ⭐⭐⭐⭐⭐ | Database Design, Optimization |
 
-#### Framework & Technology Proficiency
-
-| Category | Technologies | Level |
-|:---|:---|:---:|
-| **Frontend** | React, Angular, Flutter | ⭐⭐⭐⭐⭐ |
-| **Backend** | Django, FastAPI, Spring, Node.js, Laravel | ⭐⭐⭐⭐⭐ |
-| **AI/ML** | LangChain, Haystack, TensorFlow | ⭐⭐⭐⭐ |
-| **Cloud** | AWS (EC2, S3, Lambda, RDS, CloudFormation) | ⭐⭐⭐⭐⭐ |
-| **DevOps** | Docker, Kubernetes, CI/CD, GitHub Actions | ⭐⭐⭐⭐ |
-| **Databases** | MySQL, MongoDB, Vector DBs | ⭐⭐⭐⭐⭐ |
-| **Mobile** | Android (Java/Kotlin), iOS (Swift), Flutter | ⭐⭐⭐⭐ |
-
-</div>
-
----
-
 ### <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/2699_fe0f/512.gif" alt="⚙" width="20" style="vertical-align: middle;" /> Tech Stack
 
 **Languages**&nbsp;
