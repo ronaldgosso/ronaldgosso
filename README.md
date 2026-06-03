@@ -29,19 +29,20 @@
   <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1faf0/512.gif" width="20" style="vertical-align: middle;" />
   About
 </h3>
-Cloud Engineer architecting scalable solutions across AWS, Full-Stack, and AI/ML. My strongest skill is creativity — gathering client requirements and translating them into engaging, effective technology. A people-first engineer who thrives in cross-functional teams. 
-I’m a builder at heart — a cloud engineer who blends **analytical thinking, adaptability, and ownership** with a deep curiosity about how systems (and stories) work.
+Cloud Engineer architecting scalable solutions across AWS, Full-Stack, and AI/ML. My strongest skill is creativity — gathering client requirements and translating them into engaging, effective technical solutions.
 
-By day, I focus on designing resilient architectures, optimizing performance, and solving real-world problems with clarity and precision. I value **clear communication, structured problem-solving, and continuous improvement** — because great engineering isn’t just about code, it’s about alignment, impact, and long-term thinking.
+I'm a builder at heart — a cloud engineer who blends **analytical thinking, adaptability, and ownership** with a deep curiosity about how systems (and stories) work.
 
-By night <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f31b/512.gif" alt="🌛" width="20" style="vertical-align: middle;" />, I’m usually deep into code — refining ideas, experimenting with new architectures, or exploring emerging technologies. I do some of my best thinking when the world is quiet.
+By day, I focus on designing resilient architectures, optimizing performance, and solving real-world problems with clarity and precision. I value **clear communication, structured problem-solving**, and collaborative excellence.
+
+By night <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f31b/512.gif" alt="🌛" width="20" style="vertical-align: middle;" />, I'm usually deep into code — refining ideas, experimenting with new frameworks, and contributing to the open-source community.
 
 ---
 <b>Outside the terminal:</b>
 
-- <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f3ac/512.gif" alt="🎬" width="20" style="vertical-align: middle;" /> **Movies** sharpen my storytelling instincts and strategic thinking — great systems, like great films, depend on strong structure.
-- <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f393/512.gif" alt="🎓" width="20" style="vertical-align: middle;" /> **Books** expand my perspective — from technical depth to human insight.
-- <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f6eb/512.gif" alt="🛫" width="20" style="vertical-align: middle;" /> **Traveling** fuels adaptability and cultural awareness — two underrated assets in global tech environments.
+- <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f3ac/512.gif" alt="🎬" width="20" style="vertical-align: middle;" /> **Movies** sharpen my storytelling instincts and strategic thinking.
+- <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f393/512.gif" alt="🎓" width="20" style="vertical-align: middle;" /> **Books** expand my perspective — from technical depth to human understanding.
+- <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f6eb/512.gif" alt="🛫" width="20" style="vertical-align: middle;" /> **Traveling** fuels adaptability and cultural awareness — two under-appreciated soft skills.
 
 I believe in building things that are:
 - **Resilient**
@@ -60,7 +61,7 @@ I believe in building things that are:
 <div align="start">
   Always learning. Always improving. Always shipping.
 
-> “Discipline builds skill. Curiosity builds mastery.”
+> "Discipline builds skill. Curiosity builds mastery."
 </div>
 
 ---
@@ -68,13 +69,46 @@ I believe in building things that are:
 ### <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f947/512.gif" alt="🥇" width="20" style="vertical-align: middle;" /> GitHub Stats
 
 <div align="center">
-  
-<!-- <img src="https://github-readme-stats.vercel.app/api?username=ronaldgosso&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&bg_color=00000000&title_color=1D9E75&icon_color=378ADD&text_color=444441" width="48%" alt="GitHub Stats" />
-<!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ronaldgosso)](https://github.com/ronaldgosso/github-readme-stats)  -->
-
- <!--<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ronaldgosso&layout=compact&hide_border=true&count_private=true&bg_color=00000000&title_color=1D9E75&text_color=444441" width="48%" alt="Top Languages" />-->
 
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=ronaldgosso&theme=dark&starting_year=2022" alt="GitHub Streak" /></a>
+
+</div>
+
+---
+
+### <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4ca/512.gif" alt="📊" width="20" style="vertical-align: middle;" /> Programming Language Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ronaldgosso&layout=compact&hide_border=true&count_private=true&bg_color=00000000&title_color=1D9E75&text_color=E8E8E8&langs_count=10" alt="Top Languages" />
+
+</div>
+
+<div align="center">
+
+#### Language Proficiency Overview
+
+| Language | Level | Experience |
+|:---:|:---:|:---:|
+| ![Python](https://img.shields.io/badge/Python-Advanced-3776AB?style=flat&logo=python&logoColor=white) | ⭐⭐⭐⭐⭐ | Full-Stack, ML, Backend |
+| ![JavaScript](https://img.shields.io/badge/JavaScript-Advanced-F7DF1E?style=flat&logo=javascript&logoColor=black) | ⭐⭐⭐⭐⭐ | Frontend, Backend, Full-Stack |
+| ![Java](https://img.shields.io/badge/Java-Advanced-007396?style=flat&logo=java&logoColor=white) | ⭐⭐⭐⭐⭐ | Backend, Microservices |
+| ![Kotlin](https://img.shields.io/badge/Kotlin-Advanced-7F52FF?style=flat&logo=kotlin&logoColor=white) | ⭐⭐⭐⭐ | Android, Backend |
+| ![Swift](https://img.shields.io/badge/Swift-Advanced-FA7343?style=flat&logo=swift&logoColor=white) | ⭐⭐⭐⭐ | iOS Development |
+| ![C++](https://img.shields.io/badge/C++-Intermediate-00599C?style=flat&logo=cplusplus&logoColor=white) | ⭐⭐⭐ | Systems, Algorithms |
+| ![SQL](https://img.shields.io/badge/SQL-Advanced-336791?style=flat&logo=postgresql&logoColor=white) | ⭐⭐⭐⭐⭐ | Database Design, Optimization |
+
+#### Framework & Technology Proficiency
+
+| Category | Technologies | Level |
+|:---|:---|:---:|
+| **Frontend** | React, Angular, Flutter | ⭐⭐⭐⭐⭐ |
+| **Backend** | Django, FastAPI, Spring, Node.js, Laravel | ⭐⭐⭐⭐⭐ |
+| **AI/ML** | LangChain, Haystack, TensorFlow | ⭐⭐⭐⭐ |
+| **Cloud** | AWS (EC2, S3, Lambda, RDS, CloudFormation) | ⭐⭐⭐⭐⭐ |
+| **DevOps** | Docker, Kubernetes, CI/CD, GitHub Actions | ⭐⭐⭐⭐ |
+| **Databases** | MySQL, MongoDB, Vector DBs | ⭐⭐⭐⭐⭐ |
+| **Mobile** | Android (Java/Kotlin), iOS (Swift), Flutter | ⭐⭐⭐⭐ |
 
 </div>
 
@@ -130,11 +164,10 @@ I believe in building things that are:
 
 | Badge | Certification | Issuer | Verification |
 |:---:|---|---|---|
-| ![SEO](https://img.shields.io/badge/HubSpot-SEO_Certified-FF7A59?style=for-the-badge&logo=hubspot&logoColor=white) | SEO Certification | HubSpot Academy | [Verify ↗](https://app-eu1.hubspot.com/academy/achievements/cbhm5rx6/en/1/ronald-gosso/seo) |
-| ![JS](https://img.shields.io/badge/Cisco-JavaScript-1BA0D7?style=for-the-badge&logo=javascript&logoColor=white) | JavaScript | Cisco | [Verify ↗](https://www.credly.com/badges/b9c25a74-a6f4-4858-b5a2-df0c2f86c492/public_url) |
-| ![Python](https://img.shields.io/badge/Cisco-Python-3776AB?style=for-the-badge&logo=python&logoColor=white) | Python | Cisco | [Verify ↗](https://www.credly.com/badges/b31eafca-1783-4c44-ad63-36563349bce0/public_url) |
-| ![Web Dev](https://img.shields.io/badge/IBM-Web_Developer-054ADA?style=for-the-badge&logo=ibm&logoColor=white) | Web Developer | IBM | [Verify ↗](https://www.credly.com/badges/6be1cb97-201c-4058-b901-bbac934f9fa0/public_url) |
-| ![PM](https://img.shields.io/badge/IBM-Project_Management-054ADA?style=for-the-badge&logo=ibm&logoColor=white) | Project Management | IBM | [Verify ↗](https://www.credly.com/badges/3c9a21c7-a168-4004-80e4-99d602e1662b/public_url) |
-| ![UFL](https://img.shields.io/badge/UFL-AI_In_Health-FA4616?style=for-the-badge&logo=google-scholar&logoColor=white) |  AI in Health Education and Health Promotion | University Of Florida | [Verify ↗](https://www.credly.com/badges/940c23e3-1474-477a-8be6-2a1786399b9a/public_url) | 
-| ![AI](https://img.shields.io/badge/IBM-AI_Literacy-054ADA?style=for-the-badge&logo=ibm&logoColor=white) | AI Literacy | IBM | [Verify ↗](https://www.credly.com/badges/c510383e-7854-48d6-a7e6-2cecbf01b9ef/public_url) |
-
+| ![SEO](https://img.shields.io/badge/HubSpot-SEO_Certified-FF7A59?style=for-the-badge&logo=hubspot&logoColor=white) | SEO Certification | HubSpot Academy | [Verify ↗](https://app-eu1.hubspot.c) |
+| ![JS](https://img.shields.io/badge/Cisco-JavaScript-1BA0D7?style=for-the-badge&logo=javascript&logoColor=white) | JavaScript | Cisco | [Verify ↗](https://www.credly.com/badges/b9c25a74-a6f4-4) |
+| ![Python](https://img.shields.io/badge/Cisco-Python-3776AB?style=for-the-badge&logo=python&logoColor=white) | Python | Cisco | [Verify ↗](https://www.credly.com/badges/b31eafca-1783-4c44-ad63) |
+| ![Web Dev](https://img.shields.io/badge/IBM-Web_Developer-054ADA?style=for-the-badge&logo=ibm&logoColor=white) | Web Developer | IBM | [Verify ↗](https://www.credly.com/badges/6be1cb97-201c-4) |
+| ![PM](https://img.shields.io/badge/IBM-Project_Management-054ADA?style=for-the-badge&logo=ibm&logoColor=white) | Project Management | IBM | [Verify ↗](https://www.credly.com/badges/3c9a21c7-a) |
+| ![UFL](https://img.shields.io/badge/UFL-AI_In_Health-FA4616?style=for-the-badge&logo=google-scholar&logoColor=white) |  AI in Health Education and Health Promotion | University Of Florida | [Verify ↗](https://ufl.edu) |
+| ![AI](https://img.shields.io/badge/IBM-AI_Literacy-054ADA?style=for-the-badge&logo=ibm&logoColor=white) | AI Literacy | IBM | [Verify ↗](https://www.credly.com/badges/c510383e-7854-48d6-a7e6-) |
