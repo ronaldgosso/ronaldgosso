@@ -6,7 +6,7 @@
 
 # Ronald Isack Gosso
 
-**Cloud Engineer · AWS · Full-Stack · AI/ML** &nbsp;|&nbsp; 🇹🇿 Tanzania
+**Cloud Engineer · Full-Stack · AI/ML** &nbsp;|&nbsp; 🇹🇿 Tanzania
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ronald_Gosso-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ronald-isack-gosso)
 [![Email](https://img.shields.io/badge/Email-ronaldgosso@gmail.com-D85A30?style=flat&logo=gmail&logoColor=white)](mailto:ronaldgosso@gmail.com)
