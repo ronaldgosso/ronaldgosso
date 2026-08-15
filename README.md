@@ -68,7 +68,8 @@ I believe in building things that are:
 
 <div align="center">
 
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=ronaldgosso&theme=dark&starting_year=2022" alt="GitHub Streak" /></a>
+<!-- <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=ronaldgosso&theme=dark&starting_year=2022" alt="GitHub Streak" /></a> -->
+[![Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=ronaldgosso&theme=dark&year=2022)](https://github.com/pranesh-2005/github-readme-stats-fast)
 
 </div>
 
