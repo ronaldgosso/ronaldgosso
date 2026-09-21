@@ -62,14 +62,8 @@ I believe in building things that are:
 > "Discipline builds skill. Curiosity builds mastery."
 </div>
 
----
-
-### <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f947/512.gif" alt="🥇" width="20" style="vertical-align: middle;" /> GitHub Stats
-
-<div align="center">
-
 <!-- <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=ronaldgosso&theme=dark&starting_year=2022" alt="GitHub Streak" /></a> -->
-[![Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=ronaldgosso&theme=dark&year=2022)](https://github.com/pranesh-2005/github-readme-stats-fast)
+
 
 </div>
 
@@ -117,6 +111,8 @@ I believe in building things that are:
 ![Big Data](https://img.shields.io/badge/Big_Data-FAEEDA?style=flat&logoColor=854F0B)
 ![IoT](https://img.shields.io/badge/IoT-FAEEDA?style=flat&logo=arduino&logoColor=854F0B)
 ![Robotics](https://img.shields.io/badge/Robotics_Automation-FAEEDA?style=flat&logo=robot&Color=854F0B)
+
+[![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=ronaldgosso&theme=dark&layout=compact)](https://github.com/pranesh-2005/github-readme-stats-fast)
 
 ---
 
