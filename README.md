@@ -50,7 +50,7 @@ I believe in building things that are:
 - **Elegant**
 - **Future-proof**
 
-<div align="center">
+<div align="start">
 
 <img src="https://trakt-widgets.vercel.app/hydraLord/watched/poster?language=en" alt="trakt-widget" height="300"/>
 
