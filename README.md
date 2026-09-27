@@ -50,9 +50,19 @@ I believe in building things that are:
 - **Elegant**
 - **Future-proof**
 
-<div align="start">
+<!-- <div align="start">
 
-<img src="https://trakt-widgets.vercel.app/hydraLord/watched/poster?language=en" alt="trakt-widget" height="300"/>
+<img src="https://trakt-widgets.vercel.app/hydraLord/watched/poster?language=en" alt="trakt-widget" height="300"/>                    [![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=ronaldgosso&theme=dark&layout=compact)](https://github.com/pranesh-2005/github-readme-stats-fast)
+
+</div> -->
+
+<div style="display: flex; justify-content: space-around; align-items: center; flex-wrap: wrap;">
+
+  <img src="https://trakt-widgets.vercel.app/hydraLord/watched/poster?language=en" alt="trakt-widget" height="300"/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/pranesh-2005/github-readme-stats-fast">
+    <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=ronaldgosso&theme=dark&layout=compact" alt="Top Langs" />
+  </a>
 
 </div>
 
@@ -111,8 +121,6 @@ I believe in building things that are:
 ![Big Data](https://img.shields.io/badge/Big_Data-FAEEDA?style=flat&logoColor=854F0B)
 ![IoT](https://img.shields.io/badge/IoT-FAEEDA?style=flat&logo=arduino&logoColor=854F0B)
 ![Robotics](https://img.shields.io/badge/Robotics_Automation-FAEEDA?style=flat&logo=robot&Color=854F0B)
-
-[![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=ronaldgosso&theme=dark&layout=compact)](https://github.com/pranesh-2005/github-readme-stats-fast)
 
 ---
 
