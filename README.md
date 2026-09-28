@@ -4,7 +4,7 @@
   <img src="https://github.com/ronaldgosso.png" width="120" height="120" style="border-radius:50%;" alt="Ronald Gosso" />
 </a>
 
-# Ronald Isack Gosso
+# Ronald  Gosso
 
 **Cloud Engineer · Full-Stack · AI/ML** &nbsp;|&nbsp; 🇹🇿 Tanzania
 
