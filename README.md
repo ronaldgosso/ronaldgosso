@@ -65,6 +65,7 @@ I believe in building things that are:
   </a>
 
 </div>
+<br>
 
 <div align="start">
   Always learning. Always improving. Always shipping.
