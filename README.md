@@ -6,7 +6,8 @@
 
 # Ronald Gosso
 
-**Cloud Engineer · Full-Stack · AI/ML** &nbsp;|&nbsp; <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f1f9_1f1ff/512.gif" alt="🇹🇿" width="20" align="center" /> Tanzania
+**Cloud Engineer · Full-Stack · AI/ML** &nbsp;|&nbsp; <img align="center" width="40" height="20" alt="Flag_of_Tanzania" src="https://github.com/user-attachments/assets/3273b640-d712-44e4-907b-853273bb6cd4" />
+
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ronald_Gosso-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ronald-isack-gosso)
 [![Email](https://img.shields.io/badge/Email-ronaldgosso@gmail.com-D85A30?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ronaldgosso@gmail.com)
