@@ -64,43 +64,6 @@ I believe in building things that are:
     <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=ronaldgosso&theme=dark&layout=compact" alt="Top Langs" />
   </a>
 <!-- GOODREADS-WIDGET:START -->
-<h3>📚 Ronnie's Recent Reads</h3>
-<table>
-  <tr>
-    <td align="center" width="80">
-      <a href="https://www.goodreads.com/review/show/9000552023?utm_medium=api&utm_source=rss">
-        <img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1632024090l/27213329._SY75_.jpg" width="60" alt="Grit: The Power of Passion and Perseverance" />
-      </a>
-    </td>
-    <td valign="middle">
-      <b><a href="https://www.goodreads.com/review/show/9000552023?utm_medium=api&utm_source=rss">Grit: The Power of Passion and Perseverance</a></b><br/>
-      <i>by Angela Duckworth</i>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="80">
-      <a href="https://www.goodreads.com/review/show/9000551877?utm_medium=api&utm_source=rss">
-        <img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1436227012l/40745._SY75_.jpg" width="60" alt="Mindset: The New Psychology of Success" />
-      </a>
-    </td>
-    <td valign="middle">
-      <b><a href="https://www.goodreads.com/review/show/9000551877?utm_medium=api&utm_source=rss">Mindset: The New Psychology of Success</a></b><br/>
-      <i>by Carol S. Dweck</i>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="80">
-      <a href="https://www.goodreads.com/review/show/9000551677?utm_medium=api&utm_source=rss">
-        <img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1360564614l/13525945._SY75_.jpg" width="60" alt="So Good They Can't Ignore You: Why Skills Trump Passion in the Quest for Work You Love" />
-      </a>
-    </td>
-    <td valign="middle">
-      <b><a href="https://www.goodreads.com/review/show/9000551677?utm_medium=api&utm_source=rss">So Good They Can't Ignore You: Why Skills Trump Passion in the Quest for Work You Love</a></b><br/>
-      <i>by Cal Newport</i>
-    </td>
-  </tr>
-</table>
-<p align="right"><sub>Powered by <a href="https://www.goodreads.com/">Goodreads</a></sub></p>
 <!-- GOODREADS-WIDGET:END -->
 </div>
 <br>
