@@ -19,91 +19,100 @@ jobs:
 
       - name: Fetch Goodreads Data and Update README
         env:
-          GOODREADS_USER_ID: ${{ secrets.GOODREADS_USER_ID || '204814205' }}
-          GOODREADS_NAME: ${{ secrets.GOODREADS_NAME || 'Ronald Gosso' }}
-          GOODREADS_SHELF: 'read' # Options: 'read', 'currently-reading', 'to-read'
+          GOODREADS_USER_ID: ${{ secrets.GOODREADS_USER_ID }}
+          GOODREADS_NAME: ${{ secrets.GOODREADS_NAME }}
+          GOODREADS_SHELF: 'read'
           NUM_BOOKS: '3'
         run: |
-          python3 << 'EOF'
+          python3 << 'PYTHON_SCRIPT'
           import urllib.request
           import xml.etree.ElementTree as ET
           import os
           import re
 
-          user_id = os.environ.get('GOODREADS_USER_ID')
-          name = os.environ.get('GOODREADS_NAME')
-          shelf = os.environ.get('GOODREADS_SHELF')
-          num_books = int(os.environ.get('NUM_BOOKS'))
+          # Fallback to defaults if secrets are not set
+          user_id = os.environ.get('GOODREADS_USER_ID') or '204814205'
+          name = os.environ.get('GOODREADS_NAME') or 'Ronnie'
+          shelf = os.environ.get('GOODREADS_SHELF') or 'read'
+          num_books = int(os.environ.get('NUM_BOOKS') or '3')
 
-          rss_url = f"https://www.goodreads.com/review/list_rss/{user_id}?shelf={shelf}&sort=date_added&order=d"
+          rss_url = "https://www.goodreads.com/review/list_rss/" + user_id + "?shelf=" + shelf + "&sort=date_added&order=d"
           
           req = urllib.request.Request(rss_url, headers={'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64)'})
           try:
               with urllib.request.urlopen(req, timeout=15) as response:
                   xml_data = response.read()
           except Exception as e:
-              print(f"Failed to fetch RSS feed: {e}")
+              print("Failed to fetch RSS feed:", e)
               exit(1)
 
           root = ET.fromstring(xml_data)
           
           books_html = ""
           for item in root.findall('.//item')[:num_books]:
-              title = item.find('title').text
-              link = item.find('link').text
-              author_name = item.find('author_name').text if item.find('author_name') is not None else 'Unknown Author'
-              author_link = item.find('author_link').text if item.find('author_link') is not None else link
-              image_url = item.find('book_small_image_url').text if item.find('book_small_image_url') is not None else (item.find('book_image_url').text if item.find('book_image_url') is not None else '')
+              title_elem = item.find('title')
+              link_elem = item.find('link')
+              author_name_elem = item.find('author_name')
+              author_link_elem = item.find('author_link')
+              image_url_elem = item.find('book_small_image_url')
+              
+              title = title_elem.text if title_elem is not None else 'Unknown Title'
+              link = link_elem.text if link_elem is not None else '#'
+              author_name = author_name_elem.text if author_name_elem is not None else 'Unknown Author'
+              author_link = author_link_elem.text if author_link_elem is not None else link
+              image_url = image_url_elem.text if image_url_elem is not None else ''
 
               # Clean up CDATA wrappers if present in the RSS feed
               if title: title = re.sub(r'<!\[CDATA\[(.*?)\]\]>', r'\1', title).strip()
               if author_name: author_name = re.sub(r'<!\[CDATA\[(.*?)\]\]>', r'\1', author_name).strip()
 
-              books_html += f"""      <div class="gr_custom_each_container_1791180570">
-          <div class="gr_custom_book_container_1791180570">
-            <a title="{title}" rel="nofollow" href="{link}"><img alt="{title}" border="0" src="{image_url}" /></a>
-          </div>
-          <div class="gr_custom_title_1791180570">
-            <a rel="nofollow" href="{link}">{title}</a>
-          </div>
-          <div class="gr_custom_author_1791180570">
-            by <a rel="nofollow" href="{author_link}">{author_name}</a>
-          </div>
-      </div>
-  """
+              books_html += "      <div class=\"gr_custom_each_container_1791180570\">\n"
+              books_html += "          <div class=\"gr_custom_book_container_1791180570\">\n"
+              books_html += "            <a title=\"" + title + "\" rel=\"nofollow\" href=\"" + link + "\"><img alt=\"" + title + "\" border=\"0\" src=\"" + image_url + "\" /></a>\n"
+              books_html += "          </div>\n"
+              books_html += "          <div class=\"gr_custom_title_1791180570\">\n"
+              books_html += "            <a rel=\"nofollow\" href=\"" + link + "\">" + title + "</a>\n"
+              books_html += "          </div>\n"
+              books_html += "          <div class=\"gr_custom_author_1791180570\">\n"
+              books_html += "            by <a rel=\"nofollow\" href=\"" + author_link + "\">" + author_name + "</a>\n"
+              books_html += "          </div>\n"
+              books_html += "      </div>\n"
 
-          widget_id = "1791180570" # Matches your provided CSS classes
+          widget_id = "1791180570"
           escaped_name = name.replace("'", "&#39;")
           
-          full_widget_html = f"""      <!-- Show static HTML/CSS as a placeholder in case js is not enabled -->
-      <style type="text/css" media="screen">
-  .gr_custom_container_{widget_id} {{ border: 1px solid gray; border-radius:10px; padding: 10px 5px 10px 5px; background-color: #FFFFFF; color: #000000; width: 300px; }}
-  .gr_custom_header_{widget_id} {{ border-bottom: 1px solid gray; width: 100%; margin-bottom: 5px; text-align: center; font-size: 120%; }}
-  .gr_custom_each_container_{widget_id} {{ width: 100%; clear: both; margin-bottom: 10px; overflow: auto; padding-bottom: 4px; border-bottom: 1px solid #aaa; }}
-  .gr_custom_book_container_{widget_id} {{ overflow: hidden; height: 60px; float: right; margin-left: 4px; width: 39px; }}
-  .gr_custom_author_{widget_id} {{ font-size: 10px; }}
-  .gr_custom_tags_{widget_id} {{ font-size: 10px; color: gray; }}
-  .gr_custom_rating_{widget_id} {{ float: right; }}
-</style>
-
-      <div id="gr_custom_widget_{widget_id}">
-          <div class="gr_custom_container_{widget_id}">
-    <h2 class="gr_custom_header_{widget_id}">
-    <a style="text-decoration: none;" rel="nofollow" href="https://www.goodreads.com/review/list/{user_id}?shelf={shelf}&amp;utm_medium=api&amp;utm_source=custom_widget">{escaped_name}'s bookshelf</a>
-    </h2>
-{books_html}  <br style="clear: both"/>
-  <center>
-    <a rel="nofollow" href="https://www.goodreads.com/"><img alt="goodreads.com" style="border:0" src="https://s.gr-assets.com/images/widget/widget_logo.gif" /></a>
-  </center>
-  <noscript>
-    Share <a rel="nofollow" href="https://www.goodreads.com/">book reviews</a> and ratings with {name}, and even join a <a rel="nofollow" href="https://www.goodreads.com/group">book club</a> on Goodreads.
-  </noscript>
-  </div>
-      </div>"""
+          full_widget_html = (
+              "      <!-- Show static HTML/CSS as a placeholder -->\n"
+              "      <style type=\"text/css\" media=\"screen\">\n"
+              "  .gr_custom_container_" + widget_id + " { border: 1px solid gray; border-radius:10px; padding: 10px 5px 10px 5px; background-color: #FFFFFF; color: #000000; width: 300px; }\n"
+              "  .gr_custom_header_" + widget_id + " { border-bottom: 1px solid gray; width: 100%; margin-bottom: 5px; text-align: center; font-size: 120%; }\n"
+              "  .gr_custom_each_container_" + widget_id + " { width: 100%; clear: both; margin-bottom: 10px; overflow: auto; padding-bottom: 4px; border-bottom: 1px solid #aaa; }\n"
+              "  .gr_custom_book_container_" + widget_id + " { overflow: hidden; height: 60px; float: right; margin-left: 4px; width: 39px; }\n"
+              "  .gr_custom_author_" + widget_id + " { font-size: 10px; }\n"
+              "  .gr_custom_tags_" + widget_id + " { font-size: 10px; color: gray; }\n"
+              "  .gr_custom_rating_" + widget_id + " { float: right; }\n"
+              "</style>\n"
+              "\n"
+              "      <div id=\"gr_custom_widget_" + widget_id + "\">\n"
+              "          <div class=\"gr_custom_container_" + widget_id + "\">\n"
+              "    <h2 class=\"gr_custom_header_" + widget_id + "\">\n"
+              "    <a style=\"text-decoration: none;\" rel=\"nofollow\" href=\"https://www.goodreads.com/review/list/" + user_id + "?shelf=" + shelf + "&amp;utm_medium=api&amp;utm_source=custom_widget\">" + escaped_name + "'s bookshelf</a>\n"
+              "    </h2>\n"
+              + books_html + 
+              "  <br style=\"clear: both\"/>\n"
+              "  <center>\n"
+              "    <a rel=\"nofollow\" href=\"https://www.goodreads.com/\"><img alt=\"goodreads.com\" style=\"border:0\" src=\"https://s.gr-assets.com/images/widget/widget_logo.gif\" /></a>\n"
+              "  </center>\n"
+              "  <noscript>\n"
+              "    Share <a rel=\"nofollow\" href=\"https://www.goodreads.com/\">book reviews</a> and ratings with " + name + ", and even join a <a rel=\"nofollow\" href=\"https://www.goodreads.com/group\">book club</a> on Goodreads.\n"
+              "  </noscript>\n"
+              "  </div>\n"
+              "      </div>"
+          )
 
           readme_path = "README.md"
           if not os.path.exists(readme_path):
-              print(f"Error: {readme_path} not found!")
+              print("Error: README.md not found!")
               exit(1)
 
           with open(readme_path, 'r', encoding='utf-8') as f:
@@ -129,9 +138,9 @@ jobs:
               else:
                   print("No changes to README.md")
           else:
-              print(f"Error: Markers not found in {readme_path}")
+              print("Error: Markers not found in README.md")
               exit(1)
-          EOF
+          PYTHON_SCRIPT
 
       - name: Commit and push if changed
         run: |
