@@ -74,16 +74,16 @@ By night <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f31b/512.gif"
 <table>
   <tr><th colspan="2" align="center"><a href="https://www.goodreads.com/review/list/204814205?shelf=read">Ronald&#x27;s bookshelf</a></th></tr>
   <tr>
-    <td width="70" align="center"><a href="https://www.goodreads.com/review/show/9000583899?utm_medium=api&amp;utm_source=rss"><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1459114043l/27036528._SX50_.jpg" width="50" alt="Ego Is the Enemy"></a></td>
-    <td><a href="https://www.goodreads.com/review/show/9000583899?utm_medium=api&amp;utm_source=rss"><b>Ego Is the Enemy</b></a><br><sub>by Ryan Holiday</sub></td>
+    <td width="70" align="center"><a href="https://www.goodreads.com/review/show/9000610277?utm_medium=api&amp;utm_source=rss"><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1520615948l/35747076._SX50_.jpg" width="50" alt="Accelerate: Building and Scaling High Performing Technology Organizations"></a></td>
+    <td><a href="https://www.goodreads.com/review/show/9000610277?utm_medium=api&amp;utm_source=rss"><b>Accelerate: Building and Scaling High Performing Technology Organizations</b></a><br><sub>by Nicole Forsgren</sub></td>
   </tr>
   <tr>
-    <td width="70" align="center"><a href="https://www.goodreads.com/review/show/9000583732?utm_medium=api&amp;utm_source=rss"><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1391440316l/18668059._SX50_.jpg" width="50" alt="The Obstacle Is the Way: The Timeless Art of Turning Trials into Triumph"></a></td>
-    <td><a href="https://www.goodreads.com/review/show/9000583732?utm_medium=api&amp;utm_source=rss"><b>The Obstacle Is the Way: The Timeless Art of Turning Trials into Triumph</b></a><br><sub>by Ryan Holiday</sub></td>
+    <td width="70" align="center"><a href="https://www.goodreads.com/review/show/9000610083?utm_medium=api&amp;utm_source=rss"><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1473461230l/26083308._SY75_.jpg" width="50" alt="The DevOps Handbook: How to Create World-Class Agility, Reliability, and Security in Technology Organizations"></a></td>
+    <td><a href="https://www.goodreads.com/review/show/9000610083?utm_medium=api&amp;utm_source=rss"><b>The DevOps Handbook: How to Create World-Class Agility, Reliability, and Security in Technology Organizations</b></a><br><sub>by Gene Kim</sub></td>
   </tr>
   <tr>
-    <td width="70" align="center"><a href="https://www.goodreads.com/review/show/9000583479?utm_medium=api&amp;utm_source=rss"><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1503365703l/34536488._SX50_.jpg" width="50" alt="Principles: Life and Work"></a></td>
-    <td><a href="https://www.goodreads.com/review/show/9000583479?utm_medium=api&amp;utm_source=rss"><b>Principles: Life and Work</b></a><br><sub>by Ray Dalio</sub></td>
+    <td width="70" align="center"><a href="https://www.goodreads.com/review/show/9000609801?utm_medium=api&amp;utm_source=rss"><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1475538019l/113934._SX50_.jpg" width="50" alt="The Goal: A Process of Ongoing Improvement"></a></td>
+    <td><a href="https://www.goodreads.com/review/show/9000609801?utm_medium=api&amp;utm_source=rss"><b>The Goal: A Process of Ongoing Improvement</b></a><br><sub>by Eliyahu M. Goldratt</sub></td>
   </tr>
   <tr><td colspan="2" align="center"><sub>via <a href="https://www.goodreads.com/">Goodreads</a></sub></td></tr>
 </table>
