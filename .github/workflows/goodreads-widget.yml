@@ -55,60 +55,41 @@ jobs:
               title_elem = item.find('title')
               link_elem = item.find('link')
               author_name_elem = item.find('author_name')
-              author_link_elem = item.find('author_link')
               image_url_elem = item.find('book_small_image_url')
               
               title = title_elem.text if title_elem is not None else 'Unknown Title'
               link = link_elem.text if link_elem is not None else '#'
               author_name = author_name_elem.text if author_name_elem is not None else 'Unknown Author'
-              author_link = author_link_elem.text if author_link_elem is not None else link
               image_url = image_url_elem.text if image_url_elem is not None else ''
 
+              # Clean up CDATA wrappers
               if title: title = re.sub(r'<!\[CDATA\[(.*?)\]\]>', r'\1', title).strip()
               if author_name: author_name = re.sub(r'<!\[CDATA\[(.*?)\]\]>', r'\1', author_name).strip()
 
-              books_html += "      <div class=\"gr_custom_each_container_1791180570\">\n"
-              books_html += "          <div class=\"gr_custom_book_container_1791180570\">\n"
-              books_html += "            <a title=\"" + title + "\" rel=\"nofollow\" href=\"" + link + "\"><img alt=\"" + title + "\" border=\"0\" src=\"" + image_url + "\" /></a>\n"
-              books_html += "          </div>\n"
-              books_html += "          <div class=\"gr_custom_title_1791180570\">\n"
-              books_html += "            <a rel=\"nofollow\" href=\"" + link + "\">" + title + "</a>\n"
-              books_html += "          </div>\n"
-              books_html += "          <div class=\"gr_custom_author_1791180570\">\n"
-              books_html += "            by <a rel=\"nofollow\" href=\"" + author_link + "\">" + author_name + "</a>\n"
-              books_html += "          </div>\n"
-              books_html += "      </div>\n"
+              # GitHub-compatible HTML table row (No <style> or class attributes)
+              books_html += "  <tr>\n"
+              books_html += "    <td align=\"center\" width=\"80\">\n"
+              books_html += "      <a href=\"" + link + "\">\n"
+              books_html += "        <img src=\"" + image_url + "\" width=\"60\" alt=\"" + title + "\" />\n"
+              books_html += "      </a>\n"
+              books_html += "    </td>\n"
+              books_html += "    <td valign=\"middle\">\n"
+              books_html += "      <b><a href=\"" + link + "\">" + title + "</a></b><br/>\n"
+              books_html += "      <i>by " + author_name + "</i>\n"
+              books_html += "    </td>\n"
+              books_html += "  </tr>\n"
 
-          widget_id = "1791180570"
           escaped_name = name.replace("'", "&#39;")
           
+          # Wrap in GitHub-safe markers and table structure
           full_widget_html = (
-              "      <!-- Show static HTML/CSS as a placeholder -->\n"
-              "      <style type=\"text/css\" media=\"screen\">\n"
-              "  .gr_custom_container_" + widget_id + " { border: 1px solid gray; border-radius:10px; padding: 10px 5px 10px 5px; background-color: #FFFFFF; color: #000000; width: 300px; }\n"
-              "  .gr_custom_header_" + widget_id + " { border-bottom: 1px solid gray; width: 100%; margin-bottom: 5px; text-align: center; font-size: 120%; }\n"
-              "  .gr_custom_each_container_" + widget_id + " { width: 100%; clear: both; margin-bottom: 10px; overflow: auto; padding-bottom: 4px; border-bottom: 1px solid #aaa; }\n"
-              "  .gr_custom_book_container_" + widget_id + " { overflow: hidden; height: 60px; float: right; margin-left: 4px; width: 39px; }\n"
-              "  .gr_custom_author_" + widget_id + " { font-size: 10px; }\n"
-              "  .gr_custom_tags_" + widget_id + " { font-size: 10px; color: gray; }\n"
-              "  .gr_custom_rating_" + widget_id + " { float: right; }\n"
-              "</style>\n"
-              "\n"
-              "      <div id=\"gr_custom_widget_" + widget_id + "\">\n"
-              "          <div class=\"gr_custom_container_" + widget_id + "\">\n"
-              "    <h2 class=\"gr_custom_header_" + widget_id + "\">\n"
-              "    <a style=\"text-decoration: none;\" rel=\"nofollow\" href=\"https://www.goodreads.com/review/list/" + user_id + "?shelf=" + shelf + "&amp;utm_medium=api&amp;utm_source=custom_widget\">" + escaped_name + "'s bookshelf</a>\n"
-              "    </h2>\n"
-              + books_html + 
-              "  <br style=\"clear: both\"/>\n"
-              "  <center>\n"
-              "    <a rel=\"nofollow\" href=\"https://www.goodreads.com/\"><img alt=\"goodreads.com\" style=\"border:0\" src=\"https://s.gr-assets.com/images/widget/widget_logo.gif\" /></a>\n"
-              "  </center>\n"
-              "  <noscript>\n"
-              "    Share <a rel=\"nofollow\" href=\"https://www.goodreads.com/\">book reviews</a> and ratings with " + name + ", and even join a <a rel=\"nofollow\" href=\"https://www.goodreads.com/group\">book club</a> on Goodreads.\n"
-              "  </noscript>\n"
-              "  </div>\n"
-              "      </div>"
+              "<!-- GOODREADS-WIDGET:START -->\n"
+              "<h3>📚 " + escaped_name + "'s Recent Reads</h3>\n"
+              "<table>\n" +
+              books_html +
+              "</table>\n"
+              "<p align=\"right\"><sub>Powered by <a href=\"https://www.goodreads.com/\">Goodreads</a></sub></p>\n"
+              "<!-- GOODREADS-WIDGET:END -->"
           )
 
           readme_path = "README.md"
@@ -126,10 +107,11 @@ jobs:
           end_idx = readme_content.find(end_marker, start_idx)
 
           if start_idx != -1 and end_idx != -1:
+              # Replace everything between (and including) the markers with the new safe HTML
               new_readme_content = (
-                  readme_content[:start_idx + len(start_marker)] +
-                  "\n" + full_widget_html + "\n" +
-                  readme_content[end_idx:]
+                  readme_content[:start_idx] +
+                  full_widget_html +
+                  readme_content[end_idx + len(end_marker):]
               )
               
               if new_readme_content != readme_content:
