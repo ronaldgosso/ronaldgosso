@@ -64,64 +64,43 @@ I believe in building things that are:
     <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=ronaldgosso&theme=dark&layout=compact" alt="Top Langs" />
   </a>
 <!-- GOODREADS-WIDGET:START -->
-      <!-- Show static HTML/CSS as a placeholder -->
-      <style type="text/css" media="screen">
-  .gr_custom_container_1791180570 { border: 1px solid gray; border-radius:10px; padding: 10px 5px 10px 5px; background-color: #FFFFFF; color: #000000; width: 300px; }
-  .gr_custom_header_1791180570 { border-bottom: 1px solid gray; width: 100%; margin-bottom: 5px; text-align: center; font-size: 120%; }
-  .gr_custom_each_container_1791180570 { width: 100%; clear: both; margin-bottom: 10px; overflow: auto; padding-bottom: 4px; border-bottom: 1px solid #aaa; }
-  .gr_custom_book_container_1791180570 { overflow: hidden; height: 60px; float: right; margin-left: 4px; width: 39px; }
-  .gr_custom_author_1791180570 { font-size: 10px; }
-  .gr_custom_tags_1791180570 { font-size: 10px; color: gray; }
-  .gr_custom_rating_1791180570 { float: right; }
-</style>
-
-      <div id="gr_custom_widget_1791180570">
-          <div class="gr_custom_container_1791180570">
-    <h2 class="gr_custom_header_1791180570">
-    <a style="text-decoration: none;" rel="nofollow" href="https://www.goodreads.com/review/list/204814205?shelf=read&amp;utm_medium=api&amp;utm_source=custom_widget">Ronnie's bookshelf</a>
-    </h2>
-      <div class="gr_custom_each_container_1791180570">
-          <div class="gr_custom_book_container_1791180570">
-            <a title="Grit: The Power of Passion and Perseverance" rel="nofollow" href="https://www.goodreads.com/review/show/9000552023?utm_medium=api&utm_source=rss"><img alt="Grit: The Power of Passion and Perseverance" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1632024090l/27213329._SY75_.jpg" /></a>
-          </div>
-          <div class="gr_custom_title_1791180570">
-            <a rel="nofollow" href="https://www.goodreads.com/review/show/9000552023?utm_medium=api&utm_source=rss">Grit: The Power of Passion and Perseverance</a>
-          </div>
-          <div class="gr_custom_author_1791180570">
-            by <a rel="nofollow" href="https://www.goodreads.com/review/show/9000552023?utm_medium=api&utm_source=rss">Angela Duckworth</a>
-          </div>
-      </div>
-      <div class="gr_custom_each_container_1791180570">
-          <div class="gr_custom_book_container_1791180570">
-            <a title="Mindset: The New Psychology of Success" rel="nofollow" href="https://www.goodreads.com/review/show/9000551877?utm_medium=api&utm_source=rss"><img alt="Mindset: The New Psychology of Success" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1436227012l/40745._SY75_.jpg" /></a>
-          </div>
-          <div class="gr_custom_title_1791180570">
-            <a rel="nofollow" href="https://www.goodreads.com/review/show/9000551877?utm_medium=api&utm_source=rss">Mindset: The New Psychology of Success</a>
-          </div>
-          <div class="gr_custom_author_1791180570">
-            by <a rel="nofollow" href="https://www.goodreads.com/review/show/9000551877?utm_medium=api&utm_source=rss">Carol S. Dweck</a>
-          </div>
-      </div>
-      <div class="gr_custom_each_container_1791180570">
-          <div class="gr_custom_book_container_1791180570">
-            <a title="So Good They Can't Ignore You: Why Skills Trump Passion in the Quest for Work You Love" rel="nofollow" href="https://www.goodreads.com/review/show/9000551677?utm_medium=api&utm_source=rss"><img alt="So Good They Can't Ignore You: Why Skills Trump Passion in the Quest for Work You Love" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1360564614l/13525945._SY75_.jpg" /></a>
-          </div>
-          <div class="gr_custom_title_1791180570">
-            <a rel="nofollow" href="https://www.goodreads.com/review/show/9000551677?utm_medium=api&utm_source=rss">So Good They Can't Ignore You: Why Skills Trump Passion in the Quest for Work You Love</a>
-          </div>
-          <div class="gr_custom_author_1791180570">
-            by <a rel="nofollow" href="https://www.goodreads.com/review/show/9000551677?utm_medium=api&utm_source=rss">Cal Newport</a>
-          </div>
-      </div>
-  <br style="clear: both"/>
-  <center>
-    <a rel="nofollow" href="https://www.goodreads.com/"><img alt="goodreads.com" style="border:0" src="https://s.gr-assets.com/images/widget/widget_logo.gif" /></a>
-  </center>
-  <noscript>
-    Share <a rel="nofollow" href="https://www.goodreads.com/">book reviews</a> and ratings with Ronnie, and even join a <a rel="nofollow" href="https://www.goodreads.com/group">book club</a> on Goodreads.
-  </noscript>
-  </div>
-      </div>
+<h3>📚 Ronnie's Recent Reads</h3>
+<table>
+  <tr>
+    <td align="center" width="80">
+      <a href="https://www.goodreads.com/review/show/9000552023?utm_medium=api&utm_source=rss">
+        <img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1632024090l/27213329._SY75_.jpg" width="60" alt="Grit: The Power of Passion and Perseverance" />
+      </a>
+    </td>
+    <td valign="middle">
+      <b><a href="https://www.goodreads.com/review/show/9000552023?utm_medium=api&utm_source=rss">Grit: The Power of Passion and Perseverance</a></b><br/>
+      <i>by Angela Duckworth</i>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="80">
+      <a href="https://www.goodreads.com/review/show/9000551877?utm_medium=api&utm_source=rss">
+        <img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1436227012l/40745._SY75_.jpg" width="60" alt="Mindset: The New Psychology of Success" />
+      </a>
+    </td>
+    <td valign="middle">
+      <b><a href="https://www.goodreads.com/review/show/9000551877?utm_medium=api&utm_source=rss">Mindset: The New Psychology of Success</a></b><br/>
+      <i>by Carol S. Dweck</i>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="80">
+      <a href="https://www.goodreads.com/review/show/9000551677?utm_medium=api&utm_source=rss">
+        <img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1360564614l/13525945._SY75_.jpg" width="60" alt="So Good They Can't Ignore You: Why Skills Trump Passion in the Quest for Work You Love" />
+      </a>
+    </td>
+    <td valign="middle">
+      <b><a href="https://www.goodreads.com/review/show/9000551677?utm_medium=api&utm_source=rss">So Good They Can't Ignore You: Why Skills Trump Passion in the Quest for Work You Love</a></b><br/>
+      <i>by Cal Newport</i>
+    </td>
+  </tr>
+</table>
+<p align="right"><sub>Powered by <a href="https://www.goodreads.com/">Goodreads</a></sub></p>
 <!-- GOODREADS-WIDGET:END -->
 </div>
 <br>
