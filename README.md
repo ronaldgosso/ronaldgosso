@@ -64,6 +64,22 @@ I believe in building things that are:
     <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=ronaldgosso&theme=dark&layout=compact" alt="Top Langs" />
   </a>
 <!-- GOODREADS:START -->
+<table>
+  <tr><th colspan="2" align="center"><a href="https://www.goodreads.com/review/list/204814205?shelf=read">Ronald&#x27;s bookshelf</a></th></tr>
+  <tr>
+    <td width="70" align="center"><a href="https://www.goodreads.com/review/show/9000583899?utm_medium=api&amp;utm_source=rss"><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1459114043l/27036528._SX50_.jpg" width="50" alt="Ego Is the Enemy"></a></td>
+    <td><a href="https://www.goodreads.com/review/show/9000583899?utm_medium=api&amp;utm_source=rss"><b>Ego Is the Enemy</b></a><br><sub>by Ryan Holiday</sub></td>
+  </tr>
+  <tr>
+    <td width="70" align="center"><a href="https://www.goodreads.com/review/show/9000583732?utm_medium=api&amp;utm_source=rss"><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1391440316l/18668059._SX50_.jpg" width="50" alt="The Obstacle Is the Way: The Timeless Art of Turning Trials into Triumph"></a></td>
+    <td><a href="https://www.goodreads.com/review/show/9000583732?utm_medium=api&amp;utm_source=rss"><b>The Obstacle Is the Way: The Timeless Art of Turning Trials into Triumph</b></a><br><sub>by Ryan Holiday</sub></td>
+  </tr>
+  <tr>
+    <td width="70" align="center"><a href="https://www.goodreads.com/review/show/9000583479?utm_medium=api&amp;utm_source=rss"><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1503365703l/34536488._SX50_.jpg" width="50" alt="Principles: Life and Work"></a></td>
+    <td><a href="https://www.goodreads.com/review/show/9000583479?utm_medium=api&amp;utm_source=rss"><b>Principles: Life and Work</b></a><br><sub>by Ray Dalio</sub></td>
+  </tr>
+  <tr><td colspan="2" align="center"><sub>via <a href="https://www.goodreads.com/">Goodreads</a></sub></td></tr>
+</table>
 <!-- GOODREADS:END -->
 </div>
 <br>
