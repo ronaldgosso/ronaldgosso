@@ -63,8 +63,8 @@ I believe in building things that are:
   <a href="https://github.com/pranesh-2005/github-readme-stats-fast">
     <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=ronaldgosso&theme=dark&layout=compact" alt="Top Langs" />
   </a>
-<!-- GOODREADS-WIDGET:START -->
-<!-- GOODREADS-WIDGET:END -->
+<!-- GOODREADS:START -->
+<!-- GOODREADS:END -->
 </div>
 <br>
 
