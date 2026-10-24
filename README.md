@@ -74,16 +74,16 @@ By night <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f31b/512.gif"
 <table>
   <tr><th colspan="2" align="center"><a href="https://www.goodreads.com/review/list/204814205?shelf=read">Ronald&#x27;s bookshelf</a></th></tr>
   <tr>
-    <td width="70" align="center"><a href="https://www.goodreads.com/review/show/9000610277?utm_medium=api&amp;utm_source=rss"><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1520615948l/35747076._SX50_.jpg" width="50" alt="Accelerate: Building and Scaling High Performing Technology Organizations"></a></td>
-    <td><a href="https://www.goodreads.com/review/show/9000610277?utm_medium=api&amp;utm_source=rss"><b>Accelerate: Building and Scaling High Performing Technology Organizations</b></a><br><sub>by Nicole Forsgren</sub></td>
+    <td width="70" align="center"><a href="https://www.goodreads.com/review/show/9050959647?utm_medium=api&amp;utm_source=rss"><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1442931614l/28116._SY75_.jpg" width="50" alt="The Know-It-All"></a></td>
+    <td><a href="https://www.goodreads.com/review/show/9050959647?utm_medium=api&amp;utm_source=rss"><b>The Know-It-All</b></a><br><sub>by A.J. Jacobs</sub></td>
   </tr>
   <tr>
-    <td width="70" align="center"><a href="https://www.goodreads.com/review/show/9000610083?utm_medium=api&amp;utm_source=rss"><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1473461230l/26083308._SY75_.jpg" width="50" alt="The DevOps Handbook: How to Create World-Class Agility, Reliability, and Security in Technology Organizations"></a></td>
-    <td><a href="https://www.goodreads.com/review/show/9000610083?utm_medium=api&amp;utm_source=rss"><b>The DevOps Handbook: How to Create World-Class Agility, Reliability, and Security in Technology Organizations</b></a><br><sub>by Gene Kim</sub></td>
+    <td width="70" align="center"><a href="https://www.goodreads.com/review/show/9050958763?utm_medium=api&amp;utm_source=rss"><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1691597828l/181346634._SY75_.jpg" width="50" alt="There&#x27;s Always This Year: On Basketball and Ascension"></a></td>
+    <td><a href="https://www.goodreads.com/review/show/9050958763?utm_medium=api&amp;utm_source=rss"><b>There&#x27;s Always This Year: On Basketball and Ascension</b></a><br><sub>by Hanif Abdurraqib</sub></td>
   </tr>
   <tr>
-    <td width="70" align="center"><a href="https://www.goodreads.com/review/show/9000609801?utm_medium=api&amp;utm_source=rss"><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1475538019l/113934._SX50_.jpg" width="50" alt="The Goal: A Process of Ongoing Improvement"></a></td>
-    <td><a href="https://www.goodreads.com/review/show/9000609801?utm_medium=api&amp;utm_source=rss"><b>The Goal: A Process of Ongoing Improvement</b></a><br><sub>by Eliyahu M. Goldratt</sub></td>
+    <td width="70" align="center"><a href="https://www.goodreads.com/review/show/9050957210?utm_medium=api&amp;utm_source=rss"><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1530160228l/33381433._SY75_.jpg" width="50" alt="We Are Never Meeting in Real Life."></a></td>
+    <td><a href="https://www.goodreads.com/review/show/9050957210?utm_medium=api&amp;utm_source=rss"><b>We Are Never Meeting in Real Life.</b></a><br><sub>by Samantha Irby</sub></td>
   </tr>
   <tr><td colspan="2" align="center"><sub>via <a href="https://www.goodreads.com/">Goodreads</a></sub></td></tr>
 </table>
